@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Multimodal AI Museum Guide Chatbot
 
 
@@ -102,3 +103,6 @@ The system combines Retrieval-Augmented Generation (RAG), multilingual text retr
 
 └── requirements.txt
 
+=======
+# Multimodal-Egyptian-Museum-Chatbot
+>>>>>>> e3a5b73e2f7481d155cf1a750c02c0bd7c407a59
