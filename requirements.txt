@@ -1,0 +1,8 @@
+sentence-transformers
+faiss-cpu
+lingua-language-detector
+faster-whisper-GPU
+llama-cpp-python
+numpy
+pypdf
+tqdm
